@@ -1,0 +1,32 @@
+{
+  "repo_name": "GuaranteedPiglinBarter",
+  "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\GuaranteedPiglinBarter",
+  "source_paths": [
+    "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\猪灵百分百交易抗火药水或珍珠"
+  ],
+  "existing_git_paths": [],
+  "exclusions": [
+    {
+      "path": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\猪灵百分百交易抗火药水或珍珠\\猪灵百分百交易抗火药水或珍珠.zip",
+      "reason": "依赖/分发二进制、压缩包、Git/IDE/缓存/临时文件"
+    }
+  ],
+  "retained_thirdparty": [],
+  "archive_variants": [
+    {
+      "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\猪灵百分百交易抗火药水或珍珠\\猪灵百分百交易抗火药水或珍珠.zip",
+      "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\GuaranteedPiglinBarter\\versions\\datapacks\\current\\猪灵百分百交易抗火药水或珍珠\\猪灵百分百交易抗火药水或珍珠",
+      "sha256": "a4cff59a65ebc45b3b0921e62a031f5fc4267be2112264bd625839ba72ba514b",
+      "extracted_files": 3,
+      "excluded_entries": [],
+      "status": "extracted-source-variant"
+    }
+  ],
+  "source_mapping": [
+    {
+      "source": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\猪灵百分百交易抗火药水或珍珠",
+      "stage_relative": "datapacks\\current\\猪灵百分百交易抗火药水或珍珠"
+    }
+  ],
+  "file_count": 10
+}
