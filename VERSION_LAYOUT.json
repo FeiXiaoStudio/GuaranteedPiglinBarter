@@ -1,0 +1,84 @@
+{
+  "name": "GuaranteedPiglinBarter",
+  "ref": "mc/1.20-compatible",
+  "kind": "branch",
+  "base_commit": "a696e865f96057a5e0ab1cd9dfbae8eeba91548d",
+  "default_version_branch": "mc/1.20-compatible",
+  "branches": [
+    "mc/1.20-compatible"
+  ],
+  "snapshots": [
+    "snapshot/pack-001"
+  ],
+  "mappings": [
+    {
+      "source_prefix": "datapacks/current/猪灵百分百交易抗火药水或珍珠/data/minecraft/loot_table/gameplay/piglin_bartering.json",
+      "target_prefix": "data/minecraft/loot_table/gameplay/piglin_bartering.json"
+    },
+    {
+      "source_prefix": "datapacks/current/猪灵百分百交易抗火药水或珍珠/data/minecraft/loot_tables/gameplay/piglin_bartering.json",
+      "target_prefix": "data/minecraft/loot_tables/gameplay/piglin_bartering.json"
+    },
+    {
+      "source_prefix": "datapacks/current/猪灵百分百交易抗火药水或珍珠/pack.mcmeta",
+      "target_prefix": "pack.mcmeta"
+    },
+    {
+      "source_prefix": ".gitignore",
+      "target_prefix": ".gitignore"
+    },
+    {
+      "source_prefix": "LICENSE",
+      "target_prefix": "LICENSE"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "README.md"
+    },
+    {
+      "source_prefix": "SOURCE_MAP.json",
+      "target_prefix": "SOURCE_MAP.json"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "docs/original-layout/README.md"
+    }
+  ],
+  "metadata": {
+    "name": "mc/1.20-compatible",
+    "pack_metadata": [
+      {
+        "source_prefix": "datapacks/current/猪灵百分百交易抗火药水或珍珠",
+        "pack_type": "datapack",
+        "raw": {
+          "pack_format": 15,
+          "supported_formats": [
+            15,
+            61
+          ]
+        }
+      }
+    ],
+    "exact_mc_support_verified": false,
+    "target_evidence": "pack.mcmeta only; exact MC not asserted",
+    "format_evidence": {
+      "previous_name": "pack-format/15",
+      "recommended_name": "mc/1.20-compatible",
+      "mappings": [
+        {
+          "source_prefix": "datapacks/current/猪灵百分百交易抗火药水或珍珠",
+          "target_prefix": "."
+        }
+      ],
+      "format_anchor": {
+        "pack_type": "datapack",
+        "format": "15",
+        "official_minecraft_release": "1.20"
+      },
+      "reason": "Official release format anchor; pack metadata/support declarations remain untested. Preserve all functional variants."
+    },
+    "group": "packs",
+    "old_name": "mc/1.20-compatible"
+  },
+  "collision_preservation": []
+}
