@@ -1,0 +1,73 @@
+{
+  "name": "GuaranteedPiglinBarter",
+  "ref": "snapshot/pack-001",
+  "kind": "tag",
+  "base_commit": "a696e865f96057a5e0ab1cd9dfbae8eeba91548d",
+  "default_version_branch": "mc/1.20-compatible",
+  "branches": [
+    "mc/1.20-compatible"
+  ],
+  "snapshots": [
+    "snapshot/pack-001"
+  ],
+  "mappings": [
+    {
+      "source_prefix": "versions/datapacks/current/猪灵百分百交易抗火药水或珍珠/猪灵百分百交易抗火药水或珍珠/data/minecraft/loot_table/gameplay/piglin_bartering.json",
+      "target_prefix": "data/minecraft/loot_table/gameplay/piglin_bartering.json"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/猪灵百分百交易抗火药水或珍珠/猪灵百分百交易抗火药水或珍珠/data/minecraft/loot_tables/gameplay/piglin_bartering.json",
+      "target_prefix": "data/minecraft/loot_tables/gameplay/piglin_bartering.json"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/猪灵百分百交易抗火药水或珍珠/猪灵百分百交易抗火药水或珍珠/pack.mcmeta",
+      "target_prefix": "pack.mcmeta"
+    },
+    {
+      "source_prefix": ".gitignore",
+      "target_prefix": ".gitignore"
+    },
+    {
+      "source_prefix": "LICENSE",
+      "target_prefix": "LICENSE"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "README.md"
+    },
+    {
+      "source_prefix": "SOURCE_MAP.json",
+      "target_prefix": "SOURCE_MAP.json"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "docs/original-layout/README.md"
+    }
+  ],
+  "metadata": {
+    "name": "snapshot/pack-001",
+    "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\猪灵百分百交易抗火药水或珍珠\\猪灵百分百交易抗火药水或珍珠.zip",
+    "source_archive_sha256": "a4cff59a65ebc45b3b0921e62a031f5fc4267be2112264bd625839ba72ba514b",
+    "source_prefix": "versions/datapacks/current/猪灵百分百交易抗火药水或珍珠/猪灵百分百交易抗火药水或珍珠",
+    "source_exists": true,
+    "pack_roots": [
+      "versions/datapacks/current/猪灵百分百交易抗火药水或珍珠/猪灵百分百交易抗火药水或珍珠"
+    ],
+    "metadata": [
+      {
+        "pack_format": 15,
+        "supported_formats": [
+          15,
+          61
+        ]
+      }
+    ],
+    "identical_current_pack_roots": [
+      "datapacks/current/猪灵百分百交易抗火药水或珍珠"
+    ],
+    "classification": "same-mc-release-or-functional-snapshot",
+    "mc_branch": null,
+    "group": "packs"
+  },
+  "collision_preservation": []
+}
